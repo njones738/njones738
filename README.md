@@ -13,7 +13,7 @@ I am a data science student at Kennesaw State Univerisity and will be graduating
 | Coding Languages | Contact me! |
 | ----------- |  ----------- |
 | • Python | nathaniel.jones711@gmail.com
-| • R | [LinkedIn](www.linkedin.com/in/nathaniel-jones711)
+| • R | [LinkedIn](https://www.linkedin.com/in/nathaniel-jones-4bb52a82/)
 | • SAS | 
 
 ## Current Projects
