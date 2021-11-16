@@ -17,25 +17,25 @@ I am a data science student at Kennesaw State Univerisity and will be graduating
 | • SAS | 
 
 ## Current Projects
-"Does the Pell grant come with a price?" - R
+### ["Does the Pell grant come with a price?"](https://github.com/njones738/Does-the-Pell-grant-come-with-a-price-) - R
 * I spatially joined together the Census shapefiles with the CollegeScorecard dataset 
 * I spatially analyzed the association between the typical amount of debt an independent student and a dependent student accumulates while attending school.
 * VScode was used with R packages that include tidyverse, sf, tidycensus, stringr, magrittr, ggplot, ggh4x, geofacet, and others.
 
 ## Previous Projects
-"Access to Higher Education" - R
+### ["Access to Higher Education"](https://github.com/njones738/Access-to-Higher-Education) - R
 * I conducted research on the CollegeScorecard dataset through parametric and nonparametric methods.  
 * I studied the differences in US schools with either a majority or minority proportion of their student popluation receiving a Pell grant.
 * Rstudio was used with tidyverse functions to clean the dataset of missing values and manipulate the data into usable information. Visualizations were created with ggplot methods
 
-"Two-Layer Neural Network" - Python
+### ["Two-Layer Neural Network"](https://github.com/njones738/2L_NN) - Python
 * I created a Multilayer Perceptron in Python as a class object to predict
 whether an individual in 1994 earned $50,000 or more from Census data.
 * I used functions in NumPy to define functions in a class that creates a 0,1, or
 2-layer neural net from user input.
 * Python was used with the Pandas and NumPy libraries, as well as the shuffle method from sklearn's utilities module.
 
-"Using Logistic Regression to Build Credit Scores" - Python, SAS
+### ["Using Logistic Regression to Build Credit Scores"](https://github.com/njones738/Using-Logistic-Regression-to-Build-Credit-Scores) - Python, SAS
 * I created a model to predict a customer’s credit score by a binary predictor that
 indicated whether a customer was considered a credit risk
 * SAS procedures were used to conduct a logistic regression analysis to analysis
