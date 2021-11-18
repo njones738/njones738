@@ -4,15 +4,15 @@
 
 I am a data science student at Kennesaw State Univerisity and will be graduating at the end of this year.   
 
-| Contact me! |
-|  ----------- |
-| nathaniel.jones711@gmail.com |
-| [LinkedIn](https://www.linkedin.com/in/nathaniel-jones-4bb52a82/) |
-
 Some of my interests include:
  * Deep Learning, Regression Analysis, Nonparametric Methods, Abstract Mathematics, Numerical Analysis, and Data Visualizations.  
 
 The coding languages I currently use is Python, R, and SAS but I also know Java, HTML, and SQL.
+
+| Contact me! |
+|  ----------- |
+| nathaniel.jones711@gmail.com |
+| [LinkedIn](https://www.linkedin.com/in/nathaniel-jones-4bb52a82/) |
 
 ------------------------------------------------------------------------------------------------
 
