@@ -4,19 +4,17 @@
 
 I am a data science student at Kennesaw State Univerisity and will be graduating at the end of this year.   
 
-Some of my interests include:
- * Deep Learning    
- * Regression Analysis    
- * Nonparametric Methods    
- * Abstract Mathematics     
- * Numerical Analysis   
- * Data Visualizations  
+| Contact me! |
+|  ----------- |
+| nathaniel.jones711@gmail.com |
+| [LinkedIn](https://www.linkedin.com/in/nathaniel-jones-4bb52a82/) |
 
-| Coding Languages | Contact me! |
-| ----------- |  ----------- |
-| • Python | nathaniel.jones711@gmail.com
-| • R | [LinkedIn](https://www.linkedin.com/in/nathaniel-jones-4bb52a82/)
-| • SAS | 
+Some of my interests include:
+ * Deep Learning, Regression Analysis, Nonparametric Methods, Abstract Mathematics, Numerical Analysis, and Data Visualizations.  
+
+The coding languages I currently use is Python, R, and SAS but I also know Java, HTML, and SQL.
+
+------------------------------------------------------------------------------------------------
 
 ## Current Projects
 ### ["Does the Pell grant come with a price?"](https://github.com/njones738/Does-the-Pell-grant-come-with-a-price-) - R
