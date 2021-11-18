@@ -2,7 +2,9 @@
 
 [My resume can be found here.](Nathaniel_Jones_Resume2021.pdf)
 
-I am a data science student at Kennesaw State Univerisity and will be graduating at the end of this year. Some of my interests include:
+I am a data science student at Kennesaw State Univerisity and will be graduating at the end of this year.   
+
+Some of my interests include:
  * Deep Learning    
  * Regression Analysis    
  * Nonparametric Methods    
