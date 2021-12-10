@@ -7,7 +7,7 @@ I am a data science student at Kennesaw State Univerisity and will be graduating
 Some of my interests include:
  * Deep Learning, Regression Analysis, Nonparametric Methods, Abstract Mathematics, Numerical Analysis, and Data Visualizations.  
 
-The coding languages I currently use is Python, R, and SAS but I also know Java, HTML, and SQL.
+The coding languages I currently use are Python, R, and SAS but I also know Java, HTML, and SQL.
 
 | Contact me! |
 |  ----------- |
@@ -17,12 +17,25 @@ The coding languages I currently use is Python, R, and SAS but I also know Java,
 ------------------------------------------------------------------------------------------------
 
 ## Current Projects
-### ["Does the Pell grant come with a price?"](https://github.com/njones738/Does-the-Pell-grant-come-with-a-price-) - R
-* I spatially joined together the Census shapefiles with the CollegeScorecard dataset 
-* I spatially analyzed the association between the typical amount of debt an independent student and a dependent student accumulates while attending school.
-* VScode was used with R packages that include tidyverse, sf, tidycensus, stringr, magrittr, ggplot, ggh4x, geofacet, and others.
+### ["Regressing Federal Loan Borrowers"]() - R, Python
+* It was found in previous projects that the number of federal loan borrowers was important in modelling. So this project will seek to regress and understand the relationship the percent of federal loan borrowers at an institution has with the institutions demographic, student population demographics, geolocation, and admission data.
+* The goal will be to spatial analyze the features of the institutions with the surrounding areas. 
+
+### ["Accrediting the Accrediting Agencies "]() - R, Python
+* Interestingly, the Classification of Pell Insitutions found that the accrediting agencies of post-secondary institutions bifurcate the majority Pell institutions and the minority Pell institutions when classifying. This project will seek to understand the differences in loan outcome, academic outcome, geolocation, and institutional demographics for these accrediting agencies.   
+* The goal will be to explore differences, similarities, and ultimatley understand the different parameters associated with each accrediting agency.
 
 ## Previous Projects
+### ["Classification of Pell Institutions"](https://github.com/njones738/Classification-of-Pell-Institutions) - R, Python
+* This project sought to continue in the pursuit of understanding the stewardship of low-income students by classifying Post-secondary institutions. 
+* The models I created included the methods XGBoost, k-nearest neighbors, random forest, principal component analysis, and Logistic Regression.
+* This project I used Python and R in VScode to clean and structure the data, to process the data for modelling, and to build models that classify Pell institutions. During the process, the packages used were Tidyverse, magrittr, feather, and ggplot2 in R and sklearn, scipy, scikitplot, xgboost, category encoders, feather, matplotlib, plotnine, numpy and pandas.
+
+### ["Does the Pell grant come with a price?"](https://github.com/njones738/Does-the-Pell-grant-come-with-a-price-) - R
+* I spatially joined together the Census shapefiles with the CollegeScorecard dataset 
+* I analyzed the association between the typical amount of debt an independent student and a dependent student accumulates while attending school for each U.S. state.
+* VScode was used with R packages that include tidyverse, sf, tidycensus, stringr, magrittr, ggplot, ggh4x, geofacet, and others.
+
 ### ["Access to Higher Education"](https://github.com/njones738/Access-to-Higher-Education) - R
 * I conducted research on the CollegeScorecard dataset through parametric and nonparametric methods.  
 * I studied the differences in US schools with either a majority or minority proportion of their student popluation receiving a Pell grant.
