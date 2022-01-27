@@ -37,6 +37,8 @@ The coding languages I currently use are Python, R, and SAS but I also know Java
 * This project I used Python and R in VScode to clean and structure the data, to process the data for modelling, and to build models that classify Pell institutions. During the process, the packages used were Tidyverse, magrittr, feather, and ggplot2 in R and sklearn, scipy, scikitplot, xgboost, category encoders, feather, matplotlib, plotnine, numpy and pandas.
 
 ### ["Does the Pell grant come with a price?"](https://github.com/njones738/Does-the-Pell-grant-come-with-a-price-) - R
+* Awarded 3rd place in KSU analytics day poster contest and 
+* Selected to be presented at the Harvard National Collegiate Research Conference.
 * I spatially joined together the Census shapefiles with the CollegeScorecard dataset 
 * I analyzed the association between the typical amount of debt an independent student and a dependent student accumulates while attending school for each U.S. state.
 * VScode was used with R packages that include tidyverse, sf, tidycensus, stringr, magrittr, ggplot, ggh4x, geofacet, and others.
