@@ -16,6 +16,9 @@ The coding languages I currently use are Python, R, and SAS but I also know Java
 
 ------------------------------------------------------------------------------------------------
 
+## Analytics Day 2022
+["Choice Exploration in Data Wrangling and the Information Corral"](https://github.com/njones738/njones738/blob/master/Nathaniel.Jones.Analytics.Day.PosterSPRING2022.pdf)
+
 ## Previous Projects
 ### ["Classification of Pell Institutions"](https://github.com/njones738/Classification-of-Pell-Institutions) - R, Python
 * This project sought to continue in the pursuit of understanding the stewardship of low-income students by classifying Post-secondary institutions. 
