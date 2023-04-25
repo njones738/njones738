@@ -1,6 +1,6 @@
 # Hi my name is Nate <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-[My resume can be found here.](Nathaniel.Jones.Resume2022.pdf)
+[My resume can be found here.](Nathaniel.Jones.Resume2023.pdf)
 
 I am a data science student at Kennesaw State Univerisity and will be graduating at the end of this year.   
 
@@ -15,9 +15,6 @@ The coding languages I currently use are Python, R, and SAS but I also know Java
 | [LinkedIn](https://www.linkedin.com/in/nathaniel-jones-4bb52a82/) |
 
 ------------------------------------------------------------------------------------------------
-
-## Analytics Day 2022
-["Choice Exploration in Data Wrangling and the Information Corral"](https://github.com/njones738/njones738/blob/master/Nathaniel.Jones.Analytics.Day.PosterSPRING2022.pdf)
 
 ## Previous Projects
 ### ["Classification of Pell Institutions"](https://github.com/njones738/Classification-of-Pell-Institutions) - R, Python
