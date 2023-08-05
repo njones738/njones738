@@ -46,7 +46,7 @@ The coding languages I currently use are Python, R, and SAS but I also know Java
 * Visualized findings in R with ggplot for presentation on both a poster and a technical paper
 
 ### ["Using Logistic Regression to Build Credit Scores"](https://github.com/njones738/Using-Logistic-Regression-to-Build-Credit-Scores) - Coded in Python, SAS
-* I retook Applied Binary Classification at Kennesaw State University as an undergraduate student and got to study real world data provided by Equifax under Professor Michael Frankel
+* I retook Applied Binary Classification at Kennesaw State University as an undergraduate student and got to study real world data provided by Equifax under the guidance of Professor Michael Frankel
 * Created a model to predict a customer’s credit score by a binary predictor that indicated whether a customer was considered a credit risk
 * Used SAS procedures to conduct a logistic regression analysis on the profitability of models created
 * Used Python to decide for which parameters’ missing values should be imputed and which should be excluded
