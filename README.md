@@ -1,6 +1,10 @@
 # Hi my name is Nathalie <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-[My resume can be found here.](Nathalie.jones.Resume.2023.pdf)
+| Contact me! |
+|  ----------- |
+| nathalie.jones711@gmail.com |
+| [!["Image"](https://github.com/njones738/njones738/blob/master/old_Resumes/linkedin.JPG)LinkedIn](https://www.linkedin.com/in/nathalie-jones711/) |
+| [My resume can be found here.](Nathalie.jones.Resume.2023.pdf) |
 
 I am a graduate student at Kennesaw State Univerisity and will be graduating at the end of this year with my master's of Data Science and Analytics.   
 
@@ -9,10 +13,7 @@ Some of my interests include:
 
 The coding languages I currently use are Python, R, and SAS but I also know Java, HTML, and SQL.
 
-| Contact me! |
-|  ----------- |
-| nathalie.jones711@gmail.com |
-| [LinkedIn](https://www.linkedin.com/in/nathalie-jones711/) |
+
 
 ------------------------------------------------------------------------------------------------
 ## Work Experience
