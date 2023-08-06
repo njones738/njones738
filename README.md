@@ -3,7 +3,7 @@
 | Contact me! |
 |  ----------- |
 | nathalie.jones711@gmail.com |
-| [!["Image"](https://github.com/njones738/njones738/blob/master/old_Resumes/linkedin.JPG)LinkedIn](https://www.linkedin.com/in/nathalie-jones711/) |
+| [LinkedIn](https://www.linkedin.com/in/nathalie-jones711/) |
 | [My resume can be found here.](Nathalie.jones.Resume.2023.pdf) |
 
 I am a graduate student at Kennesaw State Univerisity and will be graduating at the end of this year with my master's of Data Science and Analytics.   
