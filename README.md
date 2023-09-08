@@ -117,25 +117,6 @@ The coding languages I currently use are Python, R, and SAS but I also know Java
 * Used Least-Squares Approximation, the first and second derivative test, and the bisection method to approximate the inflection point of an interpolated equation
 * Visualized finding and methodology in R with ggplot for use in presentation
 
-## Adopt my Abandoned Children
-### ["Education Deserts and Where to Find Them"]()
-* Food deserts are defined as geographic areas where residents have few to no convenient options for securing affordable and healthy food. Researchers working for the USDA have found that low-income census tracts often intersect with food deserts ([Source](https://www.ers.usda.gov/data-products/food-access-research-atlas/documentation/)). Additionally, researchers at the Education Resources Information Center ([ERIC](https://files.eric.ed.gov/fulltext/EJ838811.pdf)) found the median distance that a student with a family income less than $30,000 is willing to travel for post-secondary school is 63 miles.
-* This project seeks to use similar metrics to define areas where access to the post-secondary education system is limited to non-existent. The resources this project will use will be the 2022 update of CollegeScorecard dataset, the most recent version of the census data, and grocery store data provided by [Safegraph](https://www.safegraph.com/).
-* I will spatially analyze the post-secondary institutions by the median number of miles a student in a certain income bracket is willing to travel. I will create buffers using the metrics found by ERIC and analyze the relation to the median income of the census tracts that fall into the radius of the created buffers.
-
-### ["Regressing Federal Loan Borrowers"]()
-* It was found in previous projects that the number of federal loan borrowers was important in modelling. So this project will seek to regress and understand the relationship the percent of federal loan borrowers at an institution has with the institutions demographic, student population demographics, geolocation, and admission data.
-* The goal will be to spatial analyze the features of the institutions with the surrounding areas. 
-
-### ["Accrediting the Accrediting Agencies"](https://github.com/njones738/Accrediting-the-Accrediting-Agencies)
-* Interestingly, the Classification of Pell Insitutions found that the accrediting agencies of post-secondary institutions bifurcate the majority Pell institutions and the minority Pell institutions when classifying. This project will seek to understand the differences in loan outcome, academic outcome, geolocation, and institutional demographics for these accrediting agencies.   
-* The goal will be to explore differences, similarities, and ultimatley understand the different parameters associated with each accrediting agency.
-
-### ["Lil GAN"](https://github.com/njones738/lil_GAN)
-* The initial goal of this project was to transfer the style of Lil Wayne's voice onto Taylor Swifts song ["Mean"](https://www.youtube.com/watch?v=jYa1eI1hpDE), but the idea grew to asking the question of could we generate a synthetic singing voice by repeatedly transfering the style of artists. 
-* This feature paired with an app highly focused on user functionality could revolutionize the creation of music to allow anyone regardless of singing ability to create music that fits their expression.
-* The plan to do this was to use a generative adversarial network, audio spectrograms, and neural style transfer, but was scooped before completion by a researcher using stable diffusion.
-
 ## GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njones738)](https://github.com/anuraghazra/github-readme-stats)
