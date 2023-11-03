@@ -16,6 +16,14 @@ The coding languages I currently use are Python, R, and SAS but I also know Java
 
 
 ------------------------------------------------------------------------------------------------
+## Analytics Day Fall 2023
+
+### ["Charting the Course: A Data-Driven Approach to Ph.D. Program Fit"](https://github.com/njones738/Charting-the-Course-A-Data-Driven-Approach-to-Ph.D.-Program-Fit) - Working Title 
+* Modeled topic similarity between papers published by PhD faculty and personal research interest
+* Scraped program and faculty data from university webpages 
+* Used [SerpAPI](https://serpapi.com/) to obtain publications from Google Scholar 
+
+
 ## Work Experience
 
 ### ["IHG Hotel & Resorts"](https://github.com/njones738/IHG-Hotel-and-Resorts) - Data Science Internship
@@ -46,12 +54,6 @@ The coding languages I currently use are Python, R, and SAS but I also know Java
 * Visualized findings in R with ggplot for presentation on both a poster and a technical paper
 
 ## Current Research Projects
-
-### ["Charting the Course: A Data-Driven Approach to Ph.D. Program Fit"](https://github.com/njones738/Academic-Alignment-A-Personalized-Path-to-PhD-Pursuit) - Working Title 
-* IN-DEVELOPMENT - EXPECTED COMPLETION: November 2023
-* Modeled topic similarity between papers published by PhD faculty and personal research interest
-* Scraped program and faculty data from university webpages 
-* Used [SerpAPI](https://serpapi.com/) to obtain publications from Google Scholar 
 
 ### ["Trial It 'til you Style It"](https://github.com/njones738/Trial-It-til-you-Style-It) - Working Title 
 * IN-DEVELOPMENT - EXPECTED COMPLETION: TBD
