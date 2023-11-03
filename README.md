@@ -41,36 +41,17 @@ The coding languages I currently use are Python, R, and SAS but I also know Java
 * Used Python libraries like SpaCy and Transformers for processing user inputs and creating topic models
 
 ### ["Using Logistic Regression to Build Credit Scores"](https://github.com/njones738/Using-Logistic-Regression-to-Build-Credit-Scores) - Coded in SAS, R
-* I retook Applied Binary Classification at Kennesaw State University as a graduate student and got the opportunity to learn from Dr. Jennifer Priestley
 * Created a model to predict a customer’s credit score by a binary predictor that indicated whether a customer was considered a credit risk
 * Used SAS procedures to conduct a logistic regression analysis on the profitability of models created
 * Visualized findings in R with ggplot for presentation on both a poster and a technical paper
 
-### ["Using Logistic Regression to Build Credit Scores"](https://github.com/njones738/Using-Logistic-Regression-to-Build-Credit-Scores) - Coded in Python, SAS
-* I retook Applied Binary Classification at Kennesaw State University as an undergraduate student and got to study real world data provided by Equifax under the guidance of Professor Michael Frankel
-* Created a model to predict a customer’s credit score by a binary predictor that indicated whether a customer was considered a credit risk
-* Used SAS procedures to conduct a logistic regression analysis on the profitability of models created
-* Used Python to decide for which parameters’ missing values should be imputed and which should be excluded
-
 ## Current Research Projects
 
-### ["Academic Alignment: A Personalized Path to PhD Pursuit"](https://github.com/njones738/Academic-Alignment-A-Personalized-Path-to-PhD-Pursuit) - Working Title 
+### ["Charting the Course: A Data-Driven Approach to Ph.D. Program Fit"](https://github.com/njones738/Academic-Alignment-A-Personalized-Path-to-PhD-Pursuit) - Working Title 
 * IN-DEVELOPMENT - EXPECTED COMPLETION: November 2023
 * Modeled topic similarity between papers published by PhD faculty and personal research interest
 * Scraped program and faculty data from university webpages 
 * Used [SerpAPI](https://serpapi.com/) to obtain publications from Google Scholar 
-
-### ["PhD Compass: Navigating Your Scholarly Future"](https://github.com/njones738/PhD-Compass-Navigating-Your-Scholarly-Future) - Working Title 
-* IN-DEVELOPMENT - EXPECTED COMPLETION: November 2023
-* Using papers published by professors to model the topical differences between both the professors and the PhD programs
-* Scraped program and faculty data from university webpages 
-* Used [SerpAPI](https://serpapi.com/) to obtain publications from Google Scholar
-
-### ["Doctoral Destinations: Mapping Your Research Path"](https://github.com/njones738/Doctoral-Destinations-Mapping-Your-Research-Path) - Working Title 
-* IN-DEVELOPMENT - EXPECTED COMPLETION: November 2023
-* Using Google Flight data to scrape flight paths between five different cities across the U.S.  
-* Optimized for lowests costs and most convient schedule
-* Collected field data on destination and university layout, culture, and faculty interactions
 
 ### ["Trial It 'til you Style It"](https://github.com/njones738/Trial-It-til-you-Style-It) - Working Title 
 * IN-DEVELOPMENT - EXPECTED COMPLETION: TBD
