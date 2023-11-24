@@ -16,14 +16,6 @@ The coding languages I currently use are Python, R, and SAS but I also know Java
 
 
 ------------------------------------------------------------------------------------------------
-## Analytics Day Fall 2023
-
-### ["Charting the Course: A Data-Driven Approach to Ph.D. Program Fit"](https://github.com/njones738/Charting-the-Course-A-Data-Driven-Approach-to-Ph.D.-Program-Fit) - Working Title 
-* Modeled topic similarity between papers published by PhD faculty and personal research interest
-* Scraped program and faculty data from university webpages 
-* Used [SerpAPI](https://serpapi.com/) to obtain publications from Google Scholar 
-
-
 ## Work Experience
 
 ### ["IHG Hotel & Resorts"](https://github.com/njones738/IHG-Hotel-and-Resorts) - Data Science Internship
@@ -37,6 +29,14 @@ The coding languages I currently use are Python, R, and SAS but I also know Java
 * Worked under Dr. Sarah Young who guided me through the IRB application and research development
 
 ## Corporate Research Projects
+
+### ["Detecting Data Oddities"]() - Working Title 
+* Wrangled 460 million reservation activities provided by IHG Hotels & Resorts to create easy-to-use detection tools using statistical techniques
+* Presented insightful recommendations to IHG Hotel & Resorts
+
+### ["Predicting Customer Churn"]() - Working Title 
+* Developed and compared several models to predict customer churn from data provided by Southern Company on customers in Ohio
+* Presented insightful recommendations to Southern Company
 
 ### ["Predicting Email Clicks"](https://github.com/njones738/Predicting-Email-Clicks) - Team Project coded in R, Python
 * Collaborated with a team to predict whether a member would click on an email
@@ -62,6 +62,11 @@ The coding languages I currently use are Python, R, and SAS but I also know Java
 * Use validated image databases to train a model to label objects for use in user style prediction
 
 ## Previous Projects
+
+### ["Charting the Course: A Data-Driven Approach to Ph.D. Program Fit"](https://github.com/njones738/Charting-the-Course-A-Data-Driven-Approach-to-Ph.D.-Program-Fit) - Coded in Python, R
+* Modeled topic similarity between papers published by PhD faculty and personal research interest
+* Scraped program and faculty data from university webpages 
+* Used [SerpAPI](https://serpapi.com/) to obtain publications from Google Scholar 
 
 ### ["Mapping Post-Secondary Transfer Rates"](https://github.com/njones738/Mapping-Post-Secondary-Transfer-Rates) - Coded in R, Python
 * Applied Graph Theory Learning Outcomes such as the clustering coefficient and network transitivity in Python
