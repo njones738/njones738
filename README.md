@@ -4,64 +4,81 @@
 |  ----------- |
 | nathalie.jones711@gmail.com |
 | [LinkedIn](https://www.linkedin.com/in/nathalie-jones711/) |
-| [My resume can be found here.](Nathalie.jones.Resume.2023.pdf) |
+| [My resume can be found here.](Nathalie.jones.Resume.2024.pdf) |
 
-I am a graduate student at Kennesaw State Univerisity and will be graduating at the end of this year with my master's of Data Science and Analytics.   
+Dedicated to harnessing the transformative power of mathematics and data science, I am passionately committed to leveraging innovative methods to develop solutions that support human users in the extraction of valuable information in large, complex data reservoirs
 
 Some of my interests include:
- * Deep Learning, Regression Analysis, Nonparametric Methods, Abstract Mathematics, Numerical Analysis, and Data Visualizations.  
+ * Deep Learning, Statistical Theory, Abstract Mathematics, Analytical Storytelling, and Data Visualizations.  
 
 The coding languages I currently use are Python, R, and SAS but I also know Java, HTML, and SQL.
 
 
+## Publications
 
-------------------------------------------------------------------------------------------------
+### "Faculty Awareness Project" (Under Development)
+* Developed and deployed a survey to explore faculty knowledge of campus services that aid students experiencing homelessness
+* Formed a research hypothesis based on current literature, collected 50K faculty emails from a representative sample of U.S. Schools 
+* Collaborated with labmates and guided through the process by Dr. Sarah Young 
+
+### "Breaking the Cycle" (Accepted for Publication)
+* Co-authored an article summary of work conducted by my lab director where she evaluated college support programs for former foster youth
+* Accepted for publication in InsideHigherEd
+
+
+## Awards & Honors
+
+### [I. "Keynote Speaker at KSU’s Fall Analytics Day"](https://datascience.kennesaw.edu/analyticsday/index.php)
+
+### [II. "Awarded $250 prize at KSU’s Spring Analytics Day 2023"](https://datascience.kennesaw.edu/analyticsday/spring2023.php)
+
+### [III. "Awarded School of Data Science & Analytics Annual Scholarship"](https://mailchi.mp/5db704f9efe1/analytics-and-data-science-vol-6-issue-1)
+
+### [IV. "KSU published recognition of my conference acceptances in 2022"](https://github.com/njones738/njones738/blob/master/link_Folder/KSU.published.recognition.of.my.2022.conference.acceptances.md)
+
+### [V. "Awarded $250 Prize at KSU’s Fall Analytics Day 2021"](https://datascience.kennesaw.edu/analytics-day-2021/fall-semester/index.php)
+
+## Conferences
+
+### [1. "Southeastern SAS User Group 2023"](https://sesug.org/proceedings/sesug_2023_final_papers/Statistics,_Analytics_and_Reporting/SESUG2023_Paper_178_Final_PDF.pdf) - 15 min presentation
+* Presented ["An Efficacy Rating for the March Madness Tournament Seeding"](https://github.com/njones738/An-Efficacy-Rating-for-March-Madness-Tournament-Seeding)
+
+### [2. "Harvard’s National Collegiate Research Conference 2022"](https://static1.squarespace.com/static/5e950577ea2d0603dedee8b3/t/623b5b1bc967cc6ffe720117/1648057117601/NCRC+2022+Handbook.pdf) - 15 min presentation
+* Presented ["Does the Pell grant come with a price?"](https://github.com/njones738/Does-the-Pell-grant-come-with-a-price-)
+
+### 3. "Posters on the Hill 2022" - 15 min presentation
+* Presented ["Does the Pell grant come with a price?"](https://github.com/njones738/Does-the-Pell-grant-come-with-a-price-)
+
+### 4. "Posters at the GA Capitol 2022" - Poster presentation
+* Presented ["Does the Pell grant come with a price?"](https://github.com/njones738/Does-the-Pell-grant-come-with-a-price-)
+
+### 5. "Kennesaw State University Bi-Annual Analytics Day" - Poster presentation
+* Presented a poster project each semester since Spring 2021
+
+
 ## Work Experience
-
-### ["IHG Hotel & Resorts"](https://github.com/njones738/IHG-Hotel-and-Resorts) - Data Science Internship
-* Collaborated with the Advanced Analytics team to report on the ROI of promotional campaign
-* Measured ROI via incrementality and registration rate
-* Networked with coworkers within and outside of the GIAD team
 
 ### ["CARES Research Lab"](https://github.com/njones738/CARES-Research-Lab) - Graduate Research Assistant
 * Conducted research related to foster and unaccompanied homeless youth in higher education
 * Designed research hypotheses, surveys, data collection methods to aid in the labs research goals
 * Worked under Dr. Sarah Young who guided me through the IRB application and research development
 
-## Corporate Research Projects
+### ["IHG Hotel & Resorts"](https://github.com/njones738/IHG-Hotel-and-Resorts) - Data Science Internship
+* Collaborated with the Advanced Analytics team to report on the ROI of promotional campaign
+* Measured ROI via incrementality and registration rate
+* Networked with coworkers within and outside of the GIAD team
 
-### ["Detecting Data Oddities"]() - Working Title 
-* Wrangled 460 million reservation activities provided by IHG Hotels & Resorts to create easy-to-use detection tools using statistical techniques
-* Presented insightful recommendations to IHG Hotel & Resorts
+### "Graduate Teaching Assistant"
+* Assisted students by helping them develop their code, create visuals, and find 3rd-party data that can be brought into their analysis
+* Aided Professor Susan Mathews Hardy by creating teaching examples for undergrads, participating in undergrad research outreach, and further developed teaching material
 
-### ["Predicting Customer Churn"]() - Working Title 
-* Developed and compared several models to predict customer churn from data provided by Southern Company on customers in Ohio
-* Presented insightful recommendations to Southern Company
 
-### ["Predicting Email Clicks"](https://github.com/njones738/Predicting-Email-Clicks) - Team Project coded in R, Python
-* Collaborated with a team to predict whether a member would click on an email
-* Analyzed member behavior to build, test, and compare several models
-* Presented insightful recommendations to IHG Hotel & Resorts
+## Posters, Papers, & Presentations
 
-### ["Modelling User Chatbot Experience"](https://github.com/njones738/Modelling-User-Chatbot-Experience) - Coded in Python, R
-* Analyzed user interactions with a chatbot using modern text analysis methods to create topic models
-* Presented insightful recommendations to Southern Company for chatbot improvements
-* Used Python libraries like SpaCy and Transformers for processing user inputs and creating topic models
-
-### ["Using Logistic Regression to Build Credit Scores"](https://github.com/njones738/Using-Logistic-Regression-to-Build-Credit-Scores) - Coded in SAS, R
-* Created a model to predict a customer’s credit score by a binary predictor that indicated whether a customer was considered a credit risk
-* Used SAS procedures to conduct a logistic regression analysis on the profitability of models created
-* Visualized findings in R with ggplot for presentation on both a poster and a technical paper
-
-## Current Research Projects
-
-### ["Trial It 'til you Style It"](https://github.com/njones738/Trial-It-til-you-Style-It) - Working Title 
-* IN-DEVELOPMENT - EXPECTED COMPLETION: TBD
-* Created a model that receives a user's headshot and survey responses then returns text and image style recommendations
-* Parsed user headshots to identify objects such as clothing, jewelry, makeup, and face shape
-* Use validated image databases to train a model to label objects for use in user style prediction
-
-## Previous Projects
+### ["An Efficacy Rating for the March Madness Tournament Seeding"](https://github.com/njones738/An-Efficacy-Rating-for-March-Madness-Tournament-Seeding) - Coded in SAS, Python
+* Developed an 'Efficacy Rating' for the NCAA March Madness tournament, enhancing tournament seeding fairness and predictability
+* Web scraped data from multiple sources via Python and conducted comprehensive analysis using SAS
+* Presented at SESUG 2023
 
 ### ["Charting the Course: A Data-Driven Approach to Ph.D. Program Fit"](https://github.com/njones738/Charting-the-Course-A-Data-Driven-Approach-to-Ph.D.-Program-Fit) - Coded in Python, R
 * Modeled topic similarity between papers published by PhD faculty and personal research interest
@@ -105,6 +122,41 @@ The coding languages I currently use are Python, R, and SAS but I also know Java
 * Used Least-Squares Approximation, the first and second derivative test, and the bisection method to approximate the inflection point of an interpolated equation
 * Visualized finding and methodology in R with ggplot for use in presentation
 
+
+## Corporate Projects
+
+### "Detecting Data Oddities"
+* Wrangled 460 million reservation activities provided by IHG Hotels & Resorts to create easy-to-use detection tools using statistical techniques
+* Presented insightful recommendations to IHG Hotel & Resorts
+
+### "Predicting Customer Churn"
+* Developed and compared several models to predict customer churn from data provided by Southern Company on customers in Ohio
+* Presented insightful recommendations to Southern Company
+
+### ["Predicting Email Clicks"](https://github.com/njones738/Predicting-Email-Clicks) - Team Project coded in R, Python
+* Collaborated with a team to predict whether a member would click on an email
+* Analyzed member behavior to build, test, and compare several models
+* Presented insightful recommendations to IHG Hotel & Resorts
+
+### ["Modelling User Chatbot Experience"](https://github.com/njones738/Modelling-User-Chatbot-Experience) - Coded in Python, R
+* Analyzed user interactions with a chatbot using modern text analysis methods to create topic models
+* Presented insightful recommendations to Southern Company for chatbot improvements
+* Used Python libraries like SpaCy and Transformers for processing user inputs and creating topic models
+
+### ["Using Logistic Regression to Build Credit Scores"](https://github.com/njones738/Using-Logistic-Regression-to-Build-Credit-Scores) - Coded in SAS, R
+* Created a model to predict a customer’s credit score by a binary predictor that indicated whether a customer was considered a credit risk
+* Used SAS procedures to conduct a logistic regression analysis on the profitability of models created
+* Visualized findings in R with ggplot for presentation on both a poster and a technical paper
+
+## Current Research Projects
+
+### ["Trial It 'til you Style It"](https://github.com/njones738/Trial-It-til-you-Style-It) - Working Title 
+* IN-DEVELOPMENT - EXPECTED COMPLETION: TBD
+* Created a model that receives a user's headshot and survey responses then returns text and image style recommendations
+* Parsed user headshots to identify objects such as clothing, jewelry, makeup, and face shape
+* Use validated image databases to train a model to label objects for use in user style prediction
+
 ## GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njones738)](https://github.com/anuraghazra/github-readme-stats)
+
