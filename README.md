@@ -21,7 +21,7 @@ The coding languages I currently use are Python, R, and SAS but I also know Java
 * Formed a research hypothesis based on current literature, collected 50K faculty emails from a representative sample of U.S. Schools 
 * Collaborated with labmates and guided through the process by Dr. Sarah Young 
 
-### "Breaking the Cycle" (Accepted for Publication)
+### "Breaking the Cycle" (Accepted)
 * Co-authored an article summary of work conducted by my lab director where she evaluated college support programs for former foster youth
 * Accepted for publication in InsideHigherEd
 
@@ -122,14 +122,13 @@ The coding languages I currently use are Python, R, and SAS but I also know Java
 * Used Least-Squares Approximation, the first and second derivative test, and the bisection method to approximate the inflection point of an interpolated equation
 * Visualized finding and methodology in R with ggplot for use in presentation
 
-
 ## Corporate Projects
 
-### "Detecting Data Oddities"
+### ["Detecting Data Oddities"]() - Team Project coded in R, Python
 * Wrangled 460 million reservation activities provided by IHG Hotels & Resorts to create easy-to-use detection tools using statistical techniques
 * Presented insightful recommendations to IHG Hotel & Resorts
 
-### "Predicting Customer Churn"
+### ["Predicting Customer Churn"]() - Team Project coded in R, Python
 * Developed and compared several models to predict customer churn from data provided by Southern Company on customers in Ohio
 * Presented insightful recommendations to Southern Company
 
@@ -150,13 +149,8 @@ The coding languages I currently use are Python, R, and SAS but I also know Java
 
 ## Current Research Projects
 
-### ["Trial It 'til you Style It"](https://github.com/njones738/Trial-It-til-you-Style-It) - Working Title 
+### "Trial It 'til you Style It" - Working Title 
 * IN-DEVELOPMENT - EXPECTED COMPLETION: TBD
 * Created a model that receives a user's headshot and survey responses then returns text and image style recommendations
 * Parsed user headshots to identify objects such as clothing, jewelry, makeup, and face shape
 * Use validated image databases to train a model to label objects for use in user style prediction
-
-## GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njones738)](https://github.com/anuraghazra/github-readme-stats)
-
