@@ -4,7 +4,7 @@
 |  ----------- |
 | nathalie.jones711@gmail.com |
 | [LinkedIn](https://www.linkedin.com/in/nathalie-jones711/) |
-| [My resume can be found here.](Nathalie.jones.Resume.2024.pdf) |
+| [My resume can be found here.](https://github.com/njones738/njones738/blob/master/Nathalie.Jones.CV.2024.pdf) |
 
 Dedicated to harnessing the transformative power of mathematics and data science, I am passionately committed to leveraging innovative methods to develop solutions that support human users in the extraction of valuable information in large, complex data reservoirs
 
