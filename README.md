@@ -124,11 +124,11 @@ The coding languages I currently use are Python, R, and SAS but I also know Java
 
 ## Corporate Projects
 
-### ["Detecting Data Oddities"]() - Team Project coded in R, Python
+### "Detecting Data Oddities" - Team Project coded in R, Python
 * Wrangled 460 million reservation activities provided by IHG Hotels & Resorts to create easy-to-use detection tools using statistical techniques
 * Presented insightful recommendations to IHG Hotel & Resorts
 
-### ["Predicting Customer Churn"]() - Team Project coded in R, Python
+### "Predicting Customer Churn" - Team Project coded in R, Python
 * Developed and compared several models to predict customer churn from data provided by Southern Company on customers in Ohio
 * Presented insightful recommendations to Southern Company
 
